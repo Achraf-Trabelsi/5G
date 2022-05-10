@@ -28,6 +28,7 @@
 
 % Initialize system constants
 rng(2014);
+addpath('C:\Users\Achraf\Documents\MATLAB\Examples\phased\MIMOBeamformingExample');
 gc = helperGetDesignSpecsParameters();
 
 % Tunable parameters
